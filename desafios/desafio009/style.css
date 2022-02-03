@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: gray;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: darkgrey;
+}
