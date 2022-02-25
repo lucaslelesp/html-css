@@ -4,4 +4,4 @@
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
  Primeiro projeto feito só por mim:
- https://lucaslelesp.github.io/html-css/projetosparaaprendizado/projeto001/index.html
+ https://lucaslelesp.github.io/html-css/projetosaprendizado/projeto001/index.html
