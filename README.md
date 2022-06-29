@@ -6,4 +6,4 @@
 
 
  Projetos das aulas:
- https://lucaslelesp.github.io/html-css/desafios/desafio010.android.html
+ https://lucaslelesp.github.io/html-css/desafios/desafio010/android.html
